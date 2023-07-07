@@ -9,7 +9,7 @@ I am a passionate developer with a strong interest in web development and securi
 - Security: Web and Mobile Security, Bug Bounty, CTFs
 
 ## Get in Touch
-- LinkedIn: [Bhavin Vasara](linkedin.com/in/bhavinvasara)
+- LinkedIn [Bhavin Vasara](https://linkedin.com/in/bhavinvasara)
 - Email: itzzmegrrr@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects!
