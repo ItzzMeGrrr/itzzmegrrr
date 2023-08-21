@@ -6,11 +6,9 @@ I am a passionate developer with a strong interest in web development and securi
 ## Skills
 - Programming Languages: Python, PHP, JavaScript
 - Web Development: HTML, CSS, Laravel
-- Security: Web and Mobile Security, Bug Bounty, CTFs
+- Security: Web and Mobile Application Security, Bug Bounty, CTFs
 
 ## Get in Touch
 - LinkedIn [Bhavin Vasara](https://linkedin.com/in/bhavinvasara)
-- Email: itzzmegrrr@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects!
-
