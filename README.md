@@ -3,8 +3,10 @@
 ## About Me
 I am a passionate developer with a strong interest in web development and security. Graduated in 2023 with a Bachelor of Engineering in Computer Science and Engineering, I enjoy exploring the intersection of programming and cybersecurity. Constantly seeking new challenges and learning opportunities, I actively participate in bug bounty programs and Capture The Flag (CTF) competitions.
 
+Currently Hacking Mastercard Professionally. 
+
 ## Skills
-- Programming Languages: Python, PHP, JavaScript
+- Programming/Scripting: Python, PHP, JavaScript, Bash, Powershell, Batch
 - Web Development: HTML, CSS, Laravel
 - Security: Web and Mobile Application Security, Bug Bounty, CTFs
 
